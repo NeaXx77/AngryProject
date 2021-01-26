@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hurting
+  - Bouncing
+  - Ground
+  - enduranceBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Neutral
+  - Player
+  - Background
+  - Enemy
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2829656625
+    locked: 0
+  - name: Neutral
+    uniqueID: 1784074799
+    locked: 0
+  - name: Player
+    uniqueID: 1879101945
+    locked: 0
+  - name: Background
+    uniqueID: 1424686683
+    locked: 0
